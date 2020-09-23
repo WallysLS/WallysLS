@@ -1,6 +1,8 @@
-### Hi there, I'm Wallys 👋 
+## Hi there, I'm Wallys and I'm a Full Stack Developer 👋 
 
-## I'm a Full Stack Developer and I'm currently working with these languages and tools:
+### My main goals are to contribute to Open Source projetcs and to improve people's lives through programming.
+
+### I'm currently working with these languages and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -12,12 +14,11 @@
 
 <br />
 
-## What I'm learning:
+### What I'm learning:
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
 
-### You can find me here:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/wallysls&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/wallysls)](https://www.linkedin.com/in/wallysls)
