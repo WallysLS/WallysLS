@@ -10,10 +10,4 @@
 <img align="left" alt="Node.js" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br />
-## What I'm learning:
-<img align="left" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="php" width="70px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
-<br />
 
-### You can find me here:
-[![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/wallysls&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/wallysls)](https://www.linkedin.com/in/wallysls)
