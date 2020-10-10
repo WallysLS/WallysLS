@@ -1,6 +1,26 @@
-## Hi there.👋 My name is Wallys and I'm a Full Stack Developer
+## 👋👋 Hi there! I'm a full stack developer
+<br>
 
-### I'm currently working with these languages and tools
+
+<p align="center">
+  <a href="https://github.com/WallysLS/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysLS&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/WallysLS/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=WallysLS&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+<br>
+
+### I'm currently working with these languages and tools:
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -12,7 +32,7 @@
 
 <br><br><br>
 
-### And I'm learning these 
+### And I'm learning these:
 <img align="left" alt="mongo" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="wordpress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
