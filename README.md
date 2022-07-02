@@ -1,7 +1,10 @@
 ## Beleza? 👋
 
-Sou mais um apaixonado por desenvolvimento de software!<br>
-Faço graduação em Sistemas de Informação pela UFMG
+Apenas mais mais um apaixonado por desenvolvimento de software e código aberto! :space_invader:<br>
+Cientista de Dados em formação :books: <br>
+Faço graduação em Sistemas de Informação pela UFMG! :hearts: <br>
+
+- Se, de alguma forma, você se interessar por algo aqui, entre em contato! 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
