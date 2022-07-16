@@ -1,8 +1,8 @@
 ## Beleza? 👋
 
-Apenas mais um apaixonado por desenvolvimento de software e código aberto! :space_invader:<br>
+Desenvolvedor ReactJS :space_invader:<br>
 Cientista de Dados em formação :books: <br>
-Faço graduação em Sistemas de Informação pela UFMG! :hearts: <br>
+Graduando em Sistemas de Informação pela UFMG! :hearts: <br>
 
 - Se, de alguma forma, você se interessar por algo aqui, entre em contato! 
 
