@@ -4,7 +4,7 @@ Desenvolvedor ReactJS :space_invader:<br>
 Cientista de Dados em formação :books: <br>
 Graduando em Sistemas de Informação pela UFMG! :hearts: <br>
 
-- Se, de alguma forma, você se interessar por algo aqui, entre em contato! 
+- Se você se interessar por algo aqui, entre em contato! :hearts:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
