@@ -1,14 +1,10 @@
-# 👋
+#### 👋 Hi,there!
 
-Desenvolvedor ReactJS :space_invader:<br>
-Cientista de Dados em formação :books: <br>
-Graduando em Sistemas de Informação pela UFMG! :hearts: <br>
-
-- Se você se interessar por algo aqui, entre em contato! :hearts:
+I'm a ReactJS developer :books: <br>and open source advocate :hearts: <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Gosto de trabalhar com:  
+#### I like working with:  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
