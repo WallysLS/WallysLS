@@ -7,7 +7,7 @@
 - 🏦 I'm an Information Systems undergrad at UFMG.
 - 🌱 I started with Front-end development, but then I fell in love with both Back-end and Data Science.
 - 🤔 Right now I'm improving my coding skills using Python, Java and SQL.
-- ⚡ Fun fact:I love learning new languages.
+- ⚡ Fun fact: I love learning new languages.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WallysLS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
